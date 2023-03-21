@@ -1,6 +1,9 @@
 [![Banner](https://github.com/anushree1903/anushree1903/blob/main/profile1.png)](https://github.com/anushree1903/anushree1903)
-
-I'm Currently Learning Javascript.<br>on my way to get my first job @ FAANG.
+## An Front End Developer in making!
+    
+    🔭 I’m currently working on javascript  
+    🌱 I’m currently learning Vanilla JS and ReactJS
+    🌐 on my way to get my first job @ FAANG.
 
 
 ## 🌐 Socials:

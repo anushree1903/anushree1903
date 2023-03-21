@@ -1,4 +1,4 @@
-[![Banner](https://github.com/anushree1903/anushree1903/blob/main/profile2.png)](https://github.com/anushree1903/anushree1903)
+[![Banner](https://github.com/anushree1903/anushree1903/blob/main/profile4.png)](https://github.com/anushree1903/anushree1903)
 ## An Front End Developer in making!
     
     🔭 I’m currently working on javascript  

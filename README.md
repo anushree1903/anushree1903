@@ -1,4 +1,5 @@
-# 💫 About Me:
+[![Banner](https://github.com/anushree1903/anushree1903/blob/main/profile1.png)](https://github.com/anushree1903/anushree1903)
+
 I'm Currently Learning Javascript.<br>on my way to get my first job @ FAANG.
 
 
